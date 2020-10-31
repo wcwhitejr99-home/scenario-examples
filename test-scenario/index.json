@@ -1,8 +1,8 @@
 {
-  "title": "title of test",
-  "description": "description of test",
+  "title": "title the scenario",
+  "description": "description of the scenario, displayed on the intro screen",
   "difficulty": "Beginner",
-  "time": "5",
+  "time": "2",
   "details": {
     "steps": [
       {
@@ -12,6 +12,10 @@
       {
         "title": "Step 2",
         "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
       }
     ],
     "intro": {
@@ -21,8 +25,10 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
   "backend": {
-    "imageid": "vscode"
+    "imageid": "ubuntu1804"
   }
 }
