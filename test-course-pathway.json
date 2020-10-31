@@ -1,0 +1,11 @@
+{
+  "title": "test course title",
+  "description": "course description",
+  "courses": [
+    {
+      "course_id": "quiz",
+      "title": "Interactive Quiz",
+      "description": "Verify understanding and key points by using an interactive quiz"
+    }
+  ]
+}
