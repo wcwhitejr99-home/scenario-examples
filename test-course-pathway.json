@@ -1,6 +1,6 @@
 {
   "title": "test course title",
-  "description": "course description",
+  "description": "test course description",
   "courses": [
     {
       "course_id": "quiz",
